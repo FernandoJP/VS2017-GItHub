@@ -11,6 +11,7 @@ namespace TesteConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Exemplo de msg de console 2");
+            Console.WriteLine("Exemplo de msg de console 3 vis VS studio");
             Console.ReadKey();
         }
     }
